@@ -1,4 +1,4 @@
-# miall-front
+# whitelabel
 
 ## Recommended IDE Setup
 
